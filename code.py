@@ -1,5 +1,5 @@
-import matplotlib.pyplot as pl
-import pandas as pand
+import matplotlib.pyplot as plt
+import pandas as pd
 
 #Some code
-file = "b.dat"
+datafile = "a.dat"
